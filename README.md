@@ -1,3 +1,4 @@
 # gitpracticeDemo
 
-#Merging the feature branch still pending
+#feature-branch1
+# feature -2
